@@ -851,7 +851,10 @@ p {
   width: 100%;
 height: 100%;}
   .single-blog .blog-image {
-    overflow: hidden; }
+    overflow: hidden;
+    height: 100%
+    
+     }
     .single-blog .blog-image img {
       width: 100%;
       height: 100%;
