@@ -1003,6 +1003,9 @@ p.form-message.success, p.form-message.error {
 /*===========================
        9.FOOTER css 
 ===========================*/
+.justify{
+  text-align: justify;
+}
 .footer-widget {
   background-color: #152136; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -1050,7 +1053,7 @@ p.form-message.success, p.form-message.error {
         color: #fff; }
 
 .footer-copyright {
-  background-color: #0C9DD9; 
+  background-color: #52bfea; 
 }
 .footer-copyright .copyright-text p {
     color: #fff; 
